@@ -1,0 +1,8 @@
+# requirements.txt
+outlines
+huggingface_hub
+mlx-lm
+pydantic
+laya-mlx
+transformers
+torch
