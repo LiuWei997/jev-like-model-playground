@@ -4,8 +4,7 @@ Template code for running lightweight System 1 (fast, intuitive) models locally 
 
 ## Overview
 
-This project provides a minimal scaffold for loading and running small local LLMs on-device, optimized for quick inference rather than deep reasoning — suited for latency-sensitive or "System 1" style tasks.
-
+This project provides a collection of System 1 models that can run locally on Apple Silicon Macs. 
 ## Models
 
 | Model | Model Card |
